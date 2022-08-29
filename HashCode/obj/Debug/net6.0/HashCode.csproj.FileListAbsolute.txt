@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\bin\Debug\net6.0\HashCode.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\bin\Debug\net6.0\HashCode.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\bin\Debug\net6.0\HashCode.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\bin\Debug\net6.0\HashCode.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\bin\Debug\net6.0\HashCode.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\refint\HashCode.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\HashCode.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\HashCode\HashTable\HashCode\obj\Debug\net6.0\ref\HashCode.dll
