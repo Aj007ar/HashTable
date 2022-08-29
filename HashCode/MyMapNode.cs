@@ -10,7 +10,6 @@ namespace HashCode
     {
         private int size;
         private LinkedList<KeyValue<K, V>>[] items;
-
         public MyMapNode(int size)
         {
             this.size = size;
@@ -31,7 +30,6 @@ namespace HashCode
             }
             return linkedlist;
         }
-
         public V GetV(K key)
         {
             int pos = GetArrayPosition(key);
@@ -70,6 +68,17 @@ namespace HashCode
                     linkedlist.Remove(foundItem);
                 }
             }
+        }
+        public bool IsEmpty()
+        {
+            if (Getsize() <= 0)
+                return true;
+            else
+                return false;
+        }
+        public int Getsize()
+        {
+            return size;
         }
     }
     public struct KeyValue<k, v>
